@@ -1,0 +1,20 @@
+h1{
+    font-size: 50px;
+}
+p{
+    font-size:17px;
+}
+button{
+    font-size:18px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+button:hover{
+    background-color: rgb(4, 77, 54);
+    color: rgb(255, 255, 255);
+}
